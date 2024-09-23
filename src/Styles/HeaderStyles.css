@@ -13,3 +13,19 @@
     text-decoration: none;
     color: white;
 }
+
+/* mobile view */
+
+.mobile-navigation{
+    list-style: none;
+}
+.mobile-navigation li{
+    padding: 20px;
+}
+.mobile-navigation li a {
+    color: black;
+    text-decoration: none;
+}
+.mobile-navigation  :hover{
+    background-color: rgb(206, 206, 206);
+}
